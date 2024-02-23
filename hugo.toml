@@ -1,0 +1,4 @@
+baseURL = 'https://siggaard.io/'
+languageCode = 'en-us'
+title = 'siggaard.io'
+theme = 'ananke'
