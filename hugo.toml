@@ -30,14 +30,14 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = "Hi! I'm Simon."
+homeIntroTitle = "Welcome!"
 homeIntroContent = """
-I focus on leadership and parenting.
+I write truisms about leadership and parenting.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'Blog'
+homeCollection = 'blog'
 
 # Lists parameters
 paginationSize = 100
