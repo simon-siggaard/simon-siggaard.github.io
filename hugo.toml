@@ -67,19 +67,9 @@ url = "/blog"
 
 [[params.menu]]
 name = "about"
-url = "/about"
+url = "https://www.linkedin.com/in/simonbuggesiggaard/"
 
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
 style = 'algol'
-
-# Giscus comments
-[params.giscus]
-enable = false
-repo = "user/repo"
-repoid = "repoId"
-category = "General"
-categoryid = "categoryId"
-mapping = "pathname"
-theme = "preferred_color_scheme"
