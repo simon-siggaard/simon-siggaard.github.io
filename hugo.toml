@@ -22,7 +22,7 @@ googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Tech leadership and parenting"
 
 # Appearance settings
 theme = 'auto'
@@ -50,7 +50,7 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/simonsiggaard/"
+url = "https://www.linkedin.com/in/simonbuggesiggaard/"
 
 [[params.social]]
 name = "github"
